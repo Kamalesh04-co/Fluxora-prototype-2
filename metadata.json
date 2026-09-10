@@ -1,0 +1,10 @@
+{
+  "name": "Fluxora - Autonomous Ship Routing Command Center",
+  "description": "Enterprise autonomous maritime command center featuring AI situation prediction, GIS routing, cold-chain telemetry, and blockchain audit.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
